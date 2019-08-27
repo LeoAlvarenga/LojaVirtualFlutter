@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "747972667967",
+    "firebase_url": "https://lojavirtualflutter-d54ac.firebaseio.com",
+    "project_id": "lojavirtualflutter-d54ac",
+    "storage_bucket": "lojavirtualflutter-d54ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747972667967:android:8396c225f8e33f76",
+        "android_client_info": {
+          "package_name": "br.com.alvarenga.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747972667967-dd9djdved4oiffj1k53g446um23c4knv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaC-Qboul7q7lPJF7U0oKUbzW_m6ghwG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747972667967-dd9djdved4oiffj1k53g446um23c4knv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
