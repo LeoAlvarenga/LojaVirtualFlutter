@@ -99,9 +99,9 @@ class _SignUpScreenState extends State<SignUpScreen> {
                     onPressed: () {
 
                       Map<String, dynamic> userData = {
-                        "name" = _nomeController.text,
-                        "adress" = _enderecoController.text,
-                        "email" = _emailController.text,
+                        "name" : _nomeController.text,
+                        "adress" : _enderecoController.text,
+                        "email" : _emailController.text,
                       };
 
                       if (_fomrKey.currentState.validate()) {
