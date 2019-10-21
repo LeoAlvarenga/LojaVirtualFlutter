@@ -18,6 +18,23 @@
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.747972667967-lvo93saupfrpsu0umi8tebk0sll46nbr</string>
+			</array>
+			<key>NSCameraUsageDescription</key>
+			<string>Selecionar uma foto de contato da galeria.</string>
+			<key>NSMicrophoneUsageDescription</key>
+			<string>Tirar fotos dos contatos.</string>
+			<key>NSPhotoLibraryUsageDescription</key>
+			<string>Tirar fotos dos contatos.</string>
+		</dict>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
